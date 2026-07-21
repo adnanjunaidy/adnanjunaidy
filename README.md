@@ -1,4 +1,4 @@
-- 👋 Hi, Im @adnanjunaidy
+- 👋 Hi, I'm @adnanjunaidy
 - Working on some cool projects
 
 

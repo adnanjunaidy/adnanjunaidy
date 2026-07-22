@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @adnanjunaidy
-- Working on some cool projects
+- Working on some cool projects.
 
 
 <!---
